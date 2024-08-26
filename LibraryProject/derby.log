@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Aug 25 14:30:14 SAST 2024D001 : [0] The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217), [1] a816c00e-0191-8983-fcdc-00000f3181c8, [2] C:\Users\iyesme\Desktop\PRG381\LibraryProject\Library_DB, [3] jdk.internal.loader.ClassLoaders$AppClassLoader@3f99bd52, [4] file:/C:/Users/iyesme/Desktop/PRG381/LibraryProject/src/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.4+8-LTS-274
+user.dir=C:\Users\iyesme\Desktop\PRG381\LibraryProject
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+C005 : [0] 
